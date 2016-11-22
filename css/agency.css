@@ -225,14 +225,13 @@ fieldset[disabled] .btn-xl.active {
     font-size: 1.5em;
   }
 }
+
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url("https://px.multiscreensite.com/index.php?url=https%3A%2F%2Fmanilafame.files.wordpress.com%2F2014%2F09%2Flee_6895.jpg&hl=0");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
+  background-size: contain;
   -o-background-size: cover;
   text-align: center;
   color: white;
